@@ -1,0 +1,8 @@
+.main {
+    height: 30rem;
+    padding-top: 1rem;
+    background-image: url("Resources/Images/img");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
